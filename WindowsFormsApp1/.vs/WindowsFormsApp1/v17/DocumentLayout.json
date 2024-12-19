@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\main form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\main form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\github desktop\\database-se07205-daovantai\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,28 +39,8 @@
       "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\main form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\main form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\main form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\updateproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -47,20 +55,12 @@
       "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\addcutomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\addcutomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\addcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E0C6B6CB-7089-41B5-A548-E8495F9C3ADD}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\windowsformsapp1\\purchasehistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -77,7 +77,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -85,90 +85,96 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "UpdateProduct.cs",
               "DocumentMoniker": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\UpdateProduct.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\UpdateProduct.cs",
-              "ToolTip": "D:\\Database\\WindowsFormsApp1\\WindowsFormsApp1\\UpdateProduct.cs*",
-              "RelativeToolTip": "..\\..\\..\\Database\\WindowsFormsApp1\\WindowsFormsApp1\\UpdateProduct.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "ToolTip": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\UpdateProduct.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\UpdateProduct.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAqwJEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T04:23:54.743Z"
+              "WhenOpened": "2024-12-14T04:23:54.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
               "Title": "AddEmployee.cs",
               "DocumentMoniker": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\AddEmployee.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\AddEmployee.cs",
               "ToolTip": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\AddEmployee.cs",
               "RelativeToolTip": "WindowsFormsApp1\\AddEmployee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAqwHEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T03:07:58.544Z"
+              "WhenOpened": "2024-12-06T03:07:58.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "CustomerForm.cs",
               "DocumentMoniker": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\CustomerForm.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\CustomerForm.cs",
               "ToolTip": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\CustomerForm.cs",
               "RelativeToolTip": "WindowsFormsApp1\\CustomerForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAqwJIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T18:34:33.803Z"
+              "WhenOpened": "2024-12-05T18:34:33.803Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
               "ToolTip": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBEAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAqwKUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T17:39:47.557Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "CustomerForm.cs [Design]",
               "DocumentMoniker": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\CustomerForm.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\CustomerForm.cs",
-              "ToolTip": "D:\\Database\\WindowsFormsApp1\\WindowsFormsApp1\\CustomerForm.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\Database\\WindowsFormsApp1\\WindowsFormsApp1\\CustomerForm.cs [Design]",
+              "ToolTip": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\CustomerForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T18:33:23.986Z"
+              "WhenOpened": "2024-12-05T18:33:23.986Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "AddCustomer.cs",
               "DocumentMoniker": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\AddCustomer.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\AddCustomer.cs",
               "ToolTip": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\AddCustomer.cs",
               "RelativeToolTip": "WindowsFormsApp1\\AddCustomer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAawHoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T19:51:38.001Z"
+              "WhenOpened": "2024-12-05T19:51:38.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEmployee.cs [Design]",
+              "DocumentMoniker": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\AddEmployee.cs",
+              "ToolTip": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\AddEmployee.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\AddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:49:02.768Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "AddEmployee.cs [Design]",
-              "DocumentMoniker": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\AddEmployee.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\AddEmployee.cs",
-              "ToolTip": "D:\\Database\\WindowsFormsApp1\\WindowsFormsApp1\\AddEmployee.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\Database\\WindowsFormsApp1\\WindowsFormsApp1\\AddEmployee.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T18:49:02.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "AddCutomer.cs [Design]",
               "DocumentMoniker": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\AddCutomer.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\AddCutomer.cs",
@@ -179,14 +185,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UpdateProduct.cs [Design]",
               "DocumentMoniker": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\UpdateProduct.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\UpdateProduct.cs",
-              "ToolTip": "D:\\Database\\WindowsFormsApp1\\WindowsFormsApp1\\UpdateProduct.cs [Design]*",
-              "RelativeToolTip": "..\\..\\..\\Database\\WindowsFormsApp1\\WindowsFormsApp1\\UpdateProduct.cs [Design]*",
+              "ToolTip": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\UpdateProduct.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\UpdateProduct.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T18:41:19.932Z"
+              "WhenOpened": "2024-12-05T18:41:19.932Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -201,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "EmployeeForm.cs [Design]",
               "DocumentMoniker": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\EmployeeForm.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\EmployeeForm.cs",
@@ -212,49 +219,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Main form.cs",
               "DocumentMoniker": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\Main form.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Main form.cs",
               "ToolTip": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\Main form.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Main form.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAYwBMAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwJMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T18:10:01.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Main form.cs [Design]",
-              "DocumentMoniker": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\Main form.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Main form.cs",
-              "ToolTip": "D:\\Database\\WindowsFormsApp1\\WindowsFormsApp1\\Main form.cs [Design]",
-              "RelativeToolTip": "..\\..\\..\\Database\\WindowsFormsApp1\\WindowsFormsApp1\\Main form.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T18:02:57.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Menuform.cs",
-              "DocumentMoniker": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\Menuform.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\Menuform.cs",
-              "ToolTip": "D:\\Database\\WindowsFormsApp1\\WindowsFormsApp1\\Menuform.cs*",
-              "RelativeToolTip": "..\\..\\..\\Database\\WindowsFormsApp1\\WindowsFormsApp1\\Menuform.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T18:01:20.635Z"
+              "WhenOpened": "2024-12-05T18:10:01.358Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Main form.cs [Design]",
+              "DocumentMoniker": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\Main form.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Main form.cs",
+              "ToolTip": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\Main form.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Main form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:02:57.673Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menuform.cs",
+              "DocumentMoniker": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\Menuform.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Menuform.cs",
+              "ToolTip": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\Menuform.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Menuform.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAuwIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:01:20.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Menuform.cs [Design]",
               "DocumentMoniker": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\Menuform.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Menuform.cs",
-              "ToolTip": "D:\\Database\\WindowsFormsApp1\\WindowsFormsApp1\\Menuform.cs [Design]*",
-              "RelativeToolTip": "..\\..\\..\\Database\\WindowsFormsApp1\\WindowsFormsApp1\\Menuform.cs [Design]*",
+              "ToolTip": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\Menuform.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Menuform.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T17:57:51.049Z"
+              "WhenOpened": "2024-12-05T17:57:51.049Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
@@ -269,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\github desktop\\database-se07205-daovantai\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",

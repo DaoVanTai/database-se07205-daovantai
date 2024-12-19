@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace SaleManagementWinform
 {
     partial class UpdateProduct
     {
